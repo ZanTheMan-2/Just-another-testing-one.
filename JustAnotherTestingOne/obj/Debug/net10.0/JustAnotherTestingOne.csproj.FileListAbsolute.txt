@@ -1,0 +1,15 @@
+C:\Users\vanwy\source\repos\JustAnotherTestingOne\JustAnotherTestingOne\bin\Debug\net10.0\JustAnotherTestingOne.exe
+C:\Users\vanwy\source\repos\JustAnotherTestingOne\JustAnotherTestingOne\bin\Debug\net10.0\JustAnotherTestingOne.deps.json
+C:\Users\vanwy\source\repos\JustAnotherTestingOne\JustAnotherTestingOne\bin\Debug\net10.0\JustAnotherTestingOne.runtimeconfig.json
+C:\Users\vanwy\source\repos\JustAnotherTestingOne\JustAnotherTestingOne\bin\Debug\net10.0\JustAnotherTestingOne.dll
+C:\Users\vanwy\source\repos\JustAnotherTestingOne\JustAnotherTestingOne\bin\Debug\net10.0\JustAnotherTestingOne.pdb
+C:\Users\vanwy\source\repos\JustAnotherTestingOne\JustAnotherTestingOne\obj\Debug\net10.0\JustAnotherTestingOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanwy\source\repos\JustAnotherTestingOne\JustAnotherTestingOne\obj\Debug\net10.0\JustAnotherTestingOne.AssemblyInfoInputs.cache
+C:\Users\vanwy\source\repos\JustAnotherTestingOne\JustAnotherTestingOne\obj\Debug\net10.0\JustAnotherTestingOne.AssemblyInfo.cs
+C:\Users\vanwy\source\repos\JustAnotherTestingOne\JustAnotherTestingOne\obj\Debug\net10.0\JustAnotherTestingOne.csproj.CoreCompileInputs.cache
+C:\Users\vanwy\source\repos\JustAnotherTestingOne\JustAnotherTestingOne\obj\Debug\net10.0\JustAnotherTestingOne.dll
+C:\Users\vanwy\source\repos\JustAnotherTestingOne\JustAnotherTestingOne\obj\Debug\net10.0\refint\JustAnotherTestingOne.dll
+C:\Users\vanwy\source\repos\JustAnotherTestingOne\JustAnotherTestingOne\obj\Debug\net10.0\JustAnotherTestingOne.pdb
+C:\Users\vanwy\source\repos\JustAnotherTestingOne\JustAnotherTestingOne\obj\Debug\net10.0\JustAnotherTestingOne.genruntimeconfig.cache
+C:\Users\vanwy\source\repos\JustAnotherTestingOne\JustAnotherTestingOne\obj\Debug\net10.0\ref\JustAnotherTestingOne.dll
+C:\Users\vanwy\source\repos\JustAnotherTestingOne\JustAnotherTestingOne\obj\Debug\net10.0\JustAnot.5F9B0284.Up2Date
